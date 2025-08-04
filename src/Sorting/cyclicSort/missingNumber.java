@@ -1,9 +1,7 @@
-package Sorting.insertionSort.cyclicSort;
+package Sorting.cyclicSort;
 
 //amazone Question EASY Level
 //https://leetcode.com/problems/missing-number/submissions/1715821236
-
-import java.util.Arrays;
 
 public class missingNumber {
     public static void main(String[] args) {
